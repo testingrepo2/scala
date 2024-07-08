@@ -3,7 +3,7 @@
 This is the home of the [Scala 2](https://www.scala-lang.org)
 standard library, compiler, and language spec.
 
-For Scala 3, visit [scala/scala3](https://github.com/scala/scala3).
+For Scala 3, visit [scala/scala3](https://github.com/scala/scala3). 
 
 # How to contribute
 
